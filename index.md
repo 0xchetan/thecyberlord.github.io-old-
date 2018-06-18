@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Chetan Badhe
 permalink: /
 ---
 ### Who TF is Chetan Badhe?
