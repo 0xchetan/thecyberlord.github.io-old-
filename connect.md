@@ -25,3 +25,7 @@ Facebook, WhatsApp and other chatting platforms are great but I don't think we c
 Best way of connecting would be **Google Hangouts** or **Email** (Introverts prefer emails generally)
 
 Or if you're the one who live on terminal, join me over IRC / '**csbadhe**'.
+
+### Or
+
+[Linkedin](https://linkedin.com/in/csbadhe) | [Facebook](https://facebook.com/badheism) | [Reddit](https://www.reddit.com/user/csbadhe08) | [Instagram](https://instagram.com/badheism)
