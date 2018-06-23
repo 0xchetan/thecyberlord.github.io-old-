@@ -28,4 +28,4 @@ Or if you're the one who live on terminal, join me over IRC / '**csbadhe**'.
 
 ### Or
 
-[Linkedin](https://linkedin.com/in/csbadhe) | [Facebook](https://facebook.com/badheism) | [Reddit](https://www.reddit.com/user/csbadhe08) | [Instagram](https://instagram.com/badheism)
+[Linkedin](https://linkedin.com/in/csbadhe) \\ [Facebook](https://facebook.com/badheism) \\ [Reddit](https://www.reddit.com/user/csbadhe08) \\ [Instagram](https://instagram.com/badheism)
