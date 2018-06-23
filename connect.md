@@ -12,7 +12,7 @@ So if you're one of the **strong** mind let's connect.
 ### We Can Talk About
 
 1. Cryptocurrencies, Decentralization, Mostly Ethereum VM (Development Only)
-2. Philosophy & Wisdom(Stoicism, Nietzsche)
+2. Philosophy & Wisdom
 3. Open Intenet (yeah, I'm fan of [@aaronsw](https://en.wikipedia.org/wiki/Aaron_Swartz))
 4. Physics, Mathematics
 5. Books
