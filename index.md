@@ -10,3 +10,5 @@ Just another guy on the internet. Founding member and writer at [Feynmand](https
 I code with Python, recently started JavaScript as server side and Solidity. Interested in blockchain, mostly Ethereum enviornment. I'm a voracious reader, poor philosopher and [amateur writer](/blog). 
 
 (Sounds cool on internet, total mess in real life.)
+
+[Say Hi!](/connect)
