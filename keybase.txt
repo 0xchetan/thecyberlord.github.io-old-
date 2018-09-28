@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thecyberlord
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thecyberlord.github.io
+  * I am thecyberlord (https://keybase.io/thecyberlord) on keybase.
+  * I have a public key ASAJUCX31NH6pFZPxG_RN6__ti1Uuq3MX2RxP2ft6LZl7wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120095025f7d4d1faa4564fc46fd137afffb62d54baadcc5f64713f67ede8b665ef0a",
+      "host": "keybase.io",
+      "kid": "0120095025f7d4d1faa4564fc46fd137afffb62d54baadcc5f64713f67ede8b665ef0a",
+      "uid": "4c8961e90eb035b6bf9661b913d16319",
+      "username": "thecyberlord"
+    },
+    "merkle_root": {
+      "ctime": 1538122320,
+      "hash": "a99e480f900d961890fd1809c96622ba0052eb7c5de84b622acace651a0ec8034c385755ae7574f5d7bc21bf254854c671e4d39a82d3d330a6b6787dd55270f7",
+      "hash_meta": "ba3d67254324eb6bbb65fb754a10e00a24e44f487bea2968eda5cf6b089e4f76",
+      "seqno": 3705334
+    },
+    "service": {
+      "entropy": "PsI6DxdY3vX7f8uIHswgPnvS",
+      "hostname": "thecyberlord.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.0"
+  },
+  "ctime": 1538122346,
+  "expire_in": 504576000,
+  "prev": "0c1c81f80d2ca9d81bc8fc6059814b13dcb13da9c022e8dd8cdaaed1e358dcbc",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCVAl99TR+qRWT8Rv0Tev/7YtVLqtzF9kcT9n7ei2Ze8Kp3BheWxvYWTESpcCBsQgDByB+A0sqdgbyPxgWYFLE9yxPanAIujdjNqu0eNY3LzEINeIzBEwY+9NpS5uAEdt6lMe92jz2yX0U+iDO9pZXp7xAgHCo3NpZ8RAjELUiWDizR32V1dq5xrY3UqX3fGuHpbyqogiuBk94GiH/DWTzwHxq5NDLL2LwVrUh7iCVJC7VFixr97zPRpBBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP80QAib8PN2vPzBegGFDS22LOyhz0E3tDbiEdotAhqXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thecyberlord
+
+==================================================================
